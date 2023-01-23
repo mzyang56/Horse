@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Activity_DataLab/lib/sinbad.jar"
+    ],
+    "java.project.sourcePaths": [
+        "Activity_DataLab",
+        "Cereal_Lab"
+    ]
+}
